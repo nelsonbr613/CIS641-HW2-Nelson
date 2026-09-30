@@ -1,6 +1,6 @@
 # CIS641-HW2-Nelson
 
-### Bryan Nelson
+# Bryan Nelson
 
 ## Interests
 - Playing Soccer
